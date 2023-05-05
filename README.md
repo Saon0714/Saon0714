@@ -1,4 +1,4 @@
-[![MasterHead](https://www.appventurez.com/wp-content/uploads/2020/06/Banner-Big-Data.jpg)]
+![MasterHead](https://www.appventurez.com/wp-content/uploads/2020/06/Banner-Big-Data.jpg)
 <h1 align="center">Hi 👋, I'm Saon Paul</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" wodth="400" src="https://aryng.com/assets/img/ani2.gif">
